@@ -1,1 +1,1 @@
-# it-club
+# rs-club
